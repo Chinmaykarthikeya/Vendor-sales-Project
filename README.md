@@ -40,7 +40,7 @@ This project is a **Vendor Sales Analytics Dashboard** that analyzes vendor and 
 
 Below is a screenshot from the interactive dashboard:
 
-![Dashboard Demo](Screenshot-2025-08-10-114958.jpg)
+![Dashboard Demo](https://github.com/Chinmaykarthikeya/Vendor-sales-Project/blob/main/power%20bi%20dashboared.png)
 
 ---
 
