@@ -1,0 +1,7 @@
+2025-08-04 03:33:27,012-INFO-ingesting-->begin_inventory.csv in db
+2025-08-04 03:33:29,075-INFO-ingesting-->end_inventory.csv in db
+2025-08-04 03:34:02,392-INFO-ingesting-->purchases.csv in db
+2025-08-04 03:34:02,624-INFO-ingesting-->purchase_prices.csv in db
+2025-08-04 03:41:14,573-INFO-ingesting-->sales.csv in db
+2025-08-04 03:41:16,162-INFO-ingesting-->vendor_invoice.csv in db
+2025-08-04 03:41:16,172-INFO-Ingestion Complete within 7.848436852296193 minutes
